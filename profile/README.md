@@ -54,13 +54,9 @@
 <img width="4068" src="https://github.com/user-attachments/assets/3502cf32-aa33-40ab-a7f9-6ee172174cfa" />
 
 
-
-![image](https://github.com/user-attachments/assets/625640d9-7f51-4109-a758-0fc5eae88ab7)
-
-
 ## 🧑🏻‍💻 팀원 소개
 | 정성훈 | 이도현 | 김석현 |
 | ------------ | ------------- | ------------- |
-| <img src="https://github.com/user-attachments/assets/95a5ccf4-4271-4994-8c60-78b2d1c27518" /> |<img src="https://github.com/user-attachments/assets/625640d9-7f51-4109-a758-0fc5eae88ab7" />| <img src="https://github.com/user-attachments/assets/ba7fb7ca-fdfc-4b90-9f8f-77a2d424dac9" /> |
+| <img width="300" src="https://github.com/user-attachments/assets/c7e2c6e7-20d3-4f7d-a728-c10dfab8cc18" /> |<img width="300"  src="https://github.com/user-attachments/assets/625640d9-7f51-4109-a758-0fc5eae88ab7" />| <img width="300"  src="https://github.com/user-attachments/assets/9b4ce4a6-4447-41da-ba3d-1104063e3099" /> |
 | <p align="center"> 팀장 </p> | <p align="center"> 팀원 </p> | <p align="center"> 팀원 </p> |
 | <p align="center"> 프로젝트 매니저 <br/> 백엔드 개발 <br/> 클라우드 개발 <br/> 프론트엔드 개발 </p> | <p align="center"> 게임 개발 </p>  | <p align="center"> 게임 개발 </p> |
