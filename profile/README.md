@@ -31,8 +31,10 @@
 </br>
 </br>
 
-## DB 설계
-<img width="4068" alt="MySQL" src="https://github.com/user-attachments/assets/6ca737a7-8d08-4530-bc32-6a925092af65">
+## 💾 DB 설계
+<img width="2034" alt="MySQL" src="https://github.com/user-attachments/assets/6ca737a7-8d08-4530-bc32-6a925092af65">
+<img width="2034" alt="MySQL" src="https://github.com/user-attachments/assets/e3b85374-5c86-41bb-809b-d01584a84205">
+
 </br>
 </br>
 </br>
