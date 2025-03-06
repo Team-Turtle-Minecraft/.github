@@ -3,6 +3,7 @@
 ![거북이 놀이터 배너](https://github.com/user-attachments/assets/2e9a9ae7-1de7-454c-ad1a-083b19f20981)
 </br>
 </br>
+</br>
 
 ## 📚 기술 스택
 |                |NAME                          |
@@ -21,15 +22,20 @@
 
 </br>
 </br>
+</br>
 
 ## 🏛️ 아키텍쳐
 <img width="4068" alt="아키텍쳐" src="https://github.com/user-attachments/assets/8cc753bd-df93-4bff-8323-fa4f70fdde0b">
 
 </br>
 </br>
+</br>
 
 ## DB 설계
 <img width="4068" alt="MySQL" src="https://github.com/user-attachments/assets/6ca737a7-8d08-4530-bc32-6a925092af65">
+</br>
+</br>
+</br>
 
 ## 🌟 서비스 기능
 ### 간편 회원가입 및 로그인 기능
@@ -40,6 +46,7 @@
 <img width="800" src="https://github.com/user-attachments/assets/76cf45f1-3cf3-45a6-9e5e-186b987d1d72" />
 
 </br>
+</br>
 
 ### 내 정보 조회 시스템
 게임 접속을 하지 않고 거북이 놀이터에서의 유저 정보와 홈페이지 내 게시물 작성 정보를 조회할 수 있는 기능을 제공합니다. 
@@ -49,6 +56,7 @@
 <img width="4068" src="https://github.com/user-attachments/assets/5c77c79b-94d9-4157-b8b1-5e94dca4af49" />  
 
 </br>
+</br>
 
 ### 출석 체크 기능
 게임 접속 상태에서 출석 체크를 통해 일일 출석 보상, 15일 이상 출석 보상, 월간 출석 보상을 제공합니다.
@@ -56,12 +64,14 @@
 <img width="800" src="https://github.com/user-attachments/assets/530c841c-85cc-4809-8ec6-cbf87390d013" />
 
 </br>
+</br>
 
 ### 유저 커뮤니티
 거북이 놀이터에서의 활동을 다른 유저들과 공유할 수 있는 커뮤니티 기능을 제공합니다.
 
 <img width="4068" src="https://github.com/user-attachments/assets/3a58133c-e517-49ef-9b90-95b799c6005b" />
 
+</br>
 </br>
 
 ### 랭킹 시스템
