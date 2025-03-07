@@ -25,14 +25,20 @@
 </br>
 
 ## 🏛️ 아키텍쳐
-<img width="4068" alt="아키텍쳐" src="https://github.com/user-attachments/assets/8cc753bd-df93-4bff-8323-fa4f70fdde0b">
+<img width="4068" alt="아키텍쳐" src="https://github.com/user-attachments/assets/490e36f0-5ddf-4c24-8457-d4eabc6d54e1">
+
 
 </br>
 </br>
 </br>
 
 ## 💾 DB 설계
+1) EC2 내부 MySQL DB 구조
 <img width="2034" alt="MySQL" src="https://github.com/user-attachments/assets/6ca737a7-8d08-4530-bc32-6a925092af65">
+</br>
+</br>
+
+2) 라즈베리파이 내부 MySQL DB 구조
 <img width="2034" alt="MySQL" src="https://github.com/user-attachments/assets/e3b85374-5c86-41bb-809b-d01584a84205">
 
 </br>
@@ -41,7 +47,7 @@
 
 ## 🌟 서비스 기능
 ### 간편 회원가입 및 로그인 기능
-구글, 카카오를 통한 간편 회원가입 및 로그인을 지원합니다.
+OAuth2.0 프로토콜을 활용하여 카카오와 구글의 인증 서비스를 연동한 간편 회원가입 및 로그인 기능을 제공합니다.
 
 <img width="800" src="https://github.com/user-attachments/assets/22cfd0eb-a4a6-48de-9630-91dafd59399a" />
 <img width="800" src="https://github.com/user-attachments/assets/a7157f9d-93fd-48fb-9247-b16757076aea" />
@@ -50,7 +56,17 @@
 </br>
 </br>
 
-### 내 정보 조회 시스템
+
+### 간편 회원가입 및 로그인 기능
+거북이 놀이터 내 메인 컨텐츠인 스토리/전투/도전과제/생활 시스템에 대해서 유저들에게 가이드를 제공합니다.
+
+<img width="4068" src="https://github.com/user-attachments/assets/e0921aec-694a-41ba-8998-f4995b5780a6" />
+
+</br>
+</br>
+
+
+### 게임 컨텐츠 소개 기능
 게임 접속을 하지 않고 거북이 놀이터에서의 유저 정보와 홈페이지 내 게시물 작성 정보를 조회할 수 있는 기능을 제공합니다. 
 
 <img width="4068" src="https://github.com/user-attachments/assets/872f1cef-0680-48dc-945b-a1b300f3ed26" />  
@@ -61,15 +77,14 @@
 </br>
 
 ### 출석 체크 기능
-게임 접속 상태에서 출석 체크를 통해 일일 출석 보상, 15일 이상 출석 보상, 월간 출석 보상을 제공합니다.
-
+거북이 놀이터에 접속한 후 출석체크 버튼을 통해 매일 출석 체크를 진행하며 일일 출석 보상, 15일 이상 출석 보상, 월간 출석 보상을 실시간으로 제공합니다.
 <img width="800" src="https://github.com/user-attachments/assets/530c841c-85cc-4809-8ec6-cbf87390d013" />
 
 </br>
 </br>
 
 ### 유저 커뮤니티
-거북이 놀이터에서의 활동을 다른 유저들과 공유할 수 있는 커뮤니티 기능을 제공합니다.
+거북이 놀이터에서의 활동(건축, 희귀 아이템 획득 등)을 자랑하는 커뮤니티 공간을 제공합니다.
 
 <img width="4068" src="https://github.com/user-attachments/assets/3a58133c-e517-49ef-9b90-95b799c6005b" />
 
@@ -77,7 +92,7 @@
 </br>
 
 ### 랭킹 시스템
-게북이 놀이터의 전체 유저에 대해서 레벨, 보스 클리어, 보유 골드 등에 대한 정보들에 대한 랭킹 기능을 제공합니다.
+직업별 레벨(전투직업/생활직업), 게시물, 도감, 보스 클리어, 부유자산에 대한 상위 5등까지의 랭킹을 제공합니다.
 
 <img width="4068" src="https://github.com/user-attachments/assets/b3303f2d-526c-49e9-b449-ab77fe61969f" />
 <img width="4068" src="https://github.com/user-attachments/assets/3502cf32-aa33-40ab-a7f9-6ee172174cfa" />
