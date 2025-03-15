@@ -1,5 +1,6 @@
 # 거북이 놀이터 홈페이지
 #### 마인크래프트 사설서버 거북이 놀이터와 연동되어 정보 제공 및 유틸리티를 지원하는 웹서비스입니다.
+### 현재 서비스 중입니다! (주소 : https://turtle-playground.kr)
 ![거북이 놀이터 배너](https://github.com/user-attachments/assets/2e9a9ae7-1de7-454c-ad1a-083b19f20981)
 </br>
 </br>
@@ -105,4 +106,4 @@ OAuth2.0 프로토콜을 활용하여 카카오와 구글의 인증 서비스를
 | ------------ | ------------- | ------------- |
 | <img width="300" src="https://github.com/user-attachments/assets/c7e2c6e7-20d3-4f7d-a728-c10dfab8cc18" /> |<img width="300"  src="https://github.com/user-attachments/assets/625640d9-7f51-4109-a758-0fc5eae88ab7" />| <img width="300"  src="https://github.com/user-attachments/assets/9b4ce4a6-4447-41da-ba3d-1104063e3099" /> |
 | <p align="center"> 팀장 </p> | <p align="center"> 팀원 </p> | <p align="center"> 팀원 </p> |
-| <p align="center"> 프로젝트 매니저 <br/> 백엔드 개발 <br/> 클라우드 개발 <br/> 프론트엔드 개발 </p> | <p align="center"> 게임 개발 </p>  | <p align="center"> 게임 개발 </p> |
+| <p align="center"> 홈페이지 풀스택 개발발 | <p align="center"> 게임 개발 </p>  | <p align="center"> 게임 개발 </p> |
